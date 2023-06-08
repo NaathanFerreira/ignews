@@ -2,9 +2,7 @@
 
 ## Demo 📸
 
-<div align="center" >
-  <a src="https://ignews-nathanf100.vercel.app/">
-</div>
+[InewsApp](https://ignews-nathanf100.vercel.app/)
 
 ---
 ## About the project

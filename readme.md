@@ -7,7 +7,7 @@
 ---
 ## About the project
 
-Ignews is a project that simulates a type of forum, where you can authenticate with your GitHub account and subscribe to read all the posts.
+Ignews is a project that simulates a type of blog, where you can authenticate with your GitHub account and subscribe to read all the posts.
 
 ### 🛠 Technologies
 

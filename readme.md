@@ -11,13 +11,12 @@ Ignews is a project that simulates a type of forum, where you can authenticate w
 
 ### 🛠 Technologies
 
-- React
-- NextJS
-- Next Auth
-- Prismic
-- Stripe 
-- SASS
-- FaunaDB
-- TypeScript
-- Axios
+- [Next.JS](https://nextjs.org/)
+- [NextAuth](https://next-auth.js.org/)
+- [Prismic](https://prismic.io/)
+- [Stripe](https://stripe.com/) 
+- [SASS](https://sass-lang.com/)
+- [FaunaDB](https://fauna.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
 ---
